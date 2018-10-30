@@ -16,3 +16,7 @@ sixsixtime.get_time(time as python datetime, latitude, longitude)
 ```
 
 See examples folder for more
+
+# I have this on my taskbar now
+
+![Taskbar](/examples/ExampleUse.png)

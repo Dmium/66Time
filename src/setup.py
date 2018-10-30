@@ -5,5 +5,6 @@ setup(
     packages=['sixsixtime'],
     include_package_data=True,
     install_requires=[
+        'ephem'
     ],
 )
